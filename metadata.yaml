@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6371'
     url: http://www.gutenberg.org/2009/agents/6371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15908#Johdanto-Suomen-kirjallishistoriaan
 gutenberg_issued: '2005-05-26'
 gutenberg_type: Text
 identifiers:
